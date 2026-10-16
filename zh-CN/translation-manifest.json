@@ -1,0 +1,409 @@
+{
+  "language": "zh-CN",
+  "upstream_repository": "https://github.com/elder-plinius/CL4R1T4S",
+  "upstream_commit": "a4d3da04e63324e794a65500c3e41994fc4ab02e",
+  "models_requested": [
+    "gemini-3.8-flash-high",
+    "gemini-3.8-flash-low",
+    "gpt-5.6-luna"
+  ],
+  "translation_checksum_format": "SHA-256 of UTF-8 text with LF line endings",
+  "files": [
+    {
+      "path": "ANTHROPIC/CLAUDE-FABLE-5.md",
+      "source_sha256": "1ef1257c67ebee68925e09206b4998755e5a10ac08af9ef9b5f30c17a897aa4c",
+      "translation_sha256": "b069a0a30c5bb147ce4b28a379b9bb969d08f2650e6c3ba3e84bdae49b70649e"
+    },
+    {
+      "path": "ANTHROPIC/CLAUDE-OPUS-5.5.md",
+      "source_sha256": "1c92a8c39c6a8b24746150c7ad7934423e2e364069370bb03bcc0b69cc365ff2",
+      "translation_sha256": "c9c40049181cc8647c585ffe0c45423cc6f0079f0ef26ac1f91c45ea4ff26154"
+    },
+    {
+      "path": "ANTHROPIC/Claude-4.1.txt",
+      "source_sha256": "fd51abe6d443c79961ce609bce4748a1c99610443b9f5e12c9c7d5a2ff91e9b5",
+      "translation_sha256": "105048a90d48b8261fc6494725cfd8718ddc477394d2d068d8aca8fbb958c4fb"
+    },
+    {
+      "path": "ANTHROPIC/Claude-4.5-Opus.txt",
+      "source_sha256": "adf641ebe0c001c1f46ff1c41653cd5a831af19fb57fa1271964f04b80011a2b",
+      "translation_sha256": "f1c16ac6cfdfc57798fc303d6cc575ea57a1650525e5002e65208f4fbd9a0d96"
+    },
+    {
+      "path": "ANTHROPIC/Claude-Design-Sys-Prompt.txt",
+      "source_sha256": "f73a8118a2a3d4525941aa35e68a5e1ecf4d40a043d3cb1329102fff8c5ca104",
+      "translation_sha256": "519bacf0660f7bb6edca8f7a47cbb31df94d3f324c3c1cec1f3dc2cd214b0758"
+    },
+    {
+      "path": "ANTHROPIC/Claude-Fable-5.1.md",
+      "source_sha256": "c57de521ca050e24634697b388fe840350481f238d3080cb2ef223cb8571196a",
+      "translation_sha256": "5ab5b6cf5ea125ecff62b4d9100becb1fa04dac42075384217d22560505177bf"
+    },
+    {
+      "path": "ANTHROPIC/Claude-Opus-4.7.txt",
+      "source_sha256": "92b7ec807b4cf11a8a1531bf17ea48ecc2e0bf9a32e975e88896eb4543db125a",
+      "translation_sha256": "2db5e3e243387fb84c9e30b2d1155ae52a706e27f3d8b9aa21455ad46c4af3e8"
+    },
+    {
+      "path": "ANTHROPIC/Claude_4.txt",
+      "source_sha256": "39599aa8734c2642ae803d1ee680ac9dc631fb57606f365a35223ad4046f1714",
+      "translation_sha256": "aba6f91e74e5486fbd78743d62bbdb82346477a49149727087fd46a50274dbb8"
+    },
+    {
+      "path": "ANTHROPIC/Claude_Code_03-04-24.md",
+      "source_sha256": "04cdff8bc75f7cb22daa88fe9b2d732978d79f94ba86b6d4d1ecd5e17ca06d99",
+      "translation_sha256": "ba8444f9d06566f2605f4db7e9e2a62f26ddec8df2f2e85a0c37b340d4a61578"
+    },
+    {
+      "path": "ANTHROPIC/Claude_Opus_4.6.txt",
+      "source_sha256": "99606744ed5110ec963fea4eeba1bb70b91509881acefe38df57e089cff6ef52",
+      "translation_sha256": "e016034023262ab10879c81fb77284fc41564c83b5e6db783c0d5656795161cb"
+    },
+    {
+      "path": "ANTHROPIC/Claude_Sonnet-4.5_Sep-29-2025.txt",
+      "source_sha256": "b005ad54e327668baafa9557869926ce7bfc81b3e16f472eab6888ea626e335d",
+      "translation_sha256": "02dc46fee10f1c2369589ae93b3274f4336afc9d442c3b2b975cb19172dda13e"
+    },
+    {
+      "path": "ANTHROPIC/Claude_Sonnet_3.5.md",
+      "source_sha256": "5f16e282fda6866bddeab21843b4b64dbe157ab89e624e845f7716264e99cce1",
+      "translation_sha256": "d60a38cc5067a860f4c776a637cc22f1b7ee6e4a4196962c8cd4ec2b3195fc19"
+    },
+    {
+      "path": "ANTHROPIC/Claude_Sonnet_3.7_New.txt",
+      "source_sha256": "792a4eff39343e9b45a0db9ed938a69dfa69aff771713d56c7159fa0429cb9a6",
+      "translation_sha256": "68e0951ca4679bed4f14c6894cd543c149355877a56f01e032b486dfbc4404d8"
+    },
+    {
+      "path": "ANTHROPIC/OPUS-5.md",
+      "source_sha256": "f8bc6dee5b23b926d3cb87a5b2dfc197feea6bfd82119f4a796b767a8da2ec41",
+      "translation_sha256": "1917554c16369cedf30e4aff9d13079a81b9af457a314b49dc36d46a938ef555"
+    },
+    {
+      "path": "ANTHROPIC/UserStyle_Modes.md",
+      "source_sha256": "bebaaabe206902fc1dd4fa9cab602655b779db381f686a33beedbf405bcadb84",
+      "translation_sha256": "bfe130c1a3c3aa637d87edc8f616f2efb9d367081ecd9bdaf3f2e35296054e7c"
+    },
+    {
+      "path": "BOLT/Bolt.txt",
+      "source_sha256": "5b17e077f9e9b78158e5d0caa6d81021b188bb6a72ef9c65496af8aa44598d16",
+      "translation_sha256": "de4e7cc2cc459f25f53dc684fe8d15a89ebacd7c6329a269a846578e73932892"
+    },
+    {
+      "path": "BRAVE/LEO_Aug-31-2025",
+      "source_sha256": "43dcfbc4aa778cb37e8e2f56bc5f573f36154661f8065367b352b2395a3f61a3",
+      "translation_sha256": "a69227fe727ba6f5a20c0faeffa9ceacf2902f78a254451139b4c76e870f505b"
+    },
+    {
+      "path": "CLINE/Cline.md",
+      "source_sha256": "cd85fb35ac1091210d27e9a893d6f7bb47a7b341e54c291d19980e3599970783",
+      "translation_sha256": "91c651632158f345b72f5c679ad0a50d60c2d24afe8b5076df4e72e8694262db"
+    },
+    {
+      "path": "CLUELY/Cluely.mkd",
+      "source_sha256": "7916bf10ac42ed2f00a2953283d857cd918fe57ee88518c4a924e5af1f0c8871",
+      "translation_sha256": "4cab362a450f51cf429144de500b681890ee14020a20734578e58d0134954f2b"
+    },
+    {
+      "path": "CURSOR/Cursor_2.0_Sys_Prompt.txt",
+      "source_sha256": "d2ff487e11606752852743eb7294a639e69c2f5129e70616788790489b90dd58",
+      "translation_sha256": "df9a0ffde39ca0fedd2cbf7fdd748290fe05df0b0c523944ccab9f4d36e6aa93"
+    },
+    {
+      "path": "CURSOR/Cursor_Prompt.md",
+      "source_sha256": "0c91be1dd89fa58df49aaa8bd2ffda467d3216e2d1d55dd474e03740ba2429b2",
+      "translation_sha256": "0feecb8177aefd127b732ae54a2f64007efe215932bd89d3cc274d853d1b6b46"
+    },
+    {
+      "path": "CURSOR/Cursor_Tools.md",
+      "source_sha256": "b73b961a40aa8a3827155bb0121c5e1a6ebb8b39ef1d9a7c053faf358b3b431d",
+      "translation_sha256": "774d17ddc342d7d4ee3a6267d313a601b7f19f9f19244e93c352489d15e0aa03"
+    },
+    {
+      "path": "DEVIN/Devin2_09-08-2025.md",
+      "source_sha256": "554736429e82784efde7026797b9889000aff0e690ff24d4c803336113e04df4",
+      "translation_sha256": "6cc874d5e7a05e727ebc50e523c95f5b514bbb3d243422f0f8e0a94ed6597896"
+    },
+    {
+      "path": "DEVIN/Devin_2.0.md",
+      "source_sha256": "64dd6afe515f1886279339a75baa12c087141b01370615ca5ecf4c159b9d8954",
+      "translation_sha256": "35b030ecc676c0a2810716124f7a2d18dce17721bbd16e11b8bc719352550b50"
+    },
+    {
+      "path": "DEVIN/Devin_2.0_Commands.md",
+      "source_sha256": "119e71c0399f8da5ccdf37ecb24808ba5ae6edd63dd9285d51b5791ba9743e87",
+      "translation_sha256": "6802aff45727e678161dc3cadbbed6fbe1d7c25196edbc35c6f84c7c3b245354"
+    },
+    {
+      "path": "DIA/Dia_CodingSkill.txt",
+      "source_sha256": "0c4ab9f9d60e57b85b9c4883e5453231ada8ad10356bcc7177423fd32cc16fe4",
+      "translation_sha256": "2646e98ac339f4e94eb860825454db80f3bd1936b8538b6a8b5581f2cbf2b17c"
+    },
+    {
+      "path": "DIA/Dia_DraftSkill.txt",
+      "source_sha256": "6dd09e059eb8ff0871b1c760093fd87638f904fac3776bdde964658b63bfa04b",
+      "translation_sha256": "310d24af52ef2ff1e736e075459c370c321c6c97fe902810005126be5dca4039"
+    },
+    {
+      "path": "FACTORY/DROID.txt",
+      "source_sha256": "f3a82be8b764c4da8d4ce3f8622d4da42042baecb07f946968581d7ea928dc70",
+      "translation_sha256": "562d598c4336acd027d69888f21e68fdf7de85b511c39bd806929391df339222"
+    },
+    {
+      "path": "GOOGLE/Gemini-2.5-Pro-04-18-2025.md",
+      "source_sha256": "49edeaef4d48000c3c15877f5076fed5d7d8e11de95875da800bc95598e3c18c",
+      "translation_sha256": "f28c9877f0754c69bf8b1615a237bb58975ce55893b5b829eac96846d133526a"
+    },
+    {
+      "path": "GOOGLE/Gemini_Diffusion.md",
+      "source_sha256": "dd2749cc5714bd8e20878a187e67eb23fb1a598e595aa504cb6e2f5821ec8488",
+      "translation_sha256": "3656301cc5bc4b242b1775c67f191c6990d957478db3774495a11e8c327b7a1d"
+    },
+    {
+      "path": "GOOGLE/Gemini_Gmail_Assistant.txt",
+      "source_sha256": "461c9d4a070171ccb8bcb4828adb01630a31362ea8740d0fd30ec959bf33ef09",
+      "translation_sha256": "4798eff178a27803f482f9a6cb4e97a71f8e63349aeb6ad27e77e114370fc519"
+    },
+    {
+      "path": "HUME/Hume_Voice_AI.md",
+      "source_sha256": "db5ef315b50cc641b8f238da266cf03a54eda715ea111c8225650f4d967ff767",
+      "translation_sha256": "d5f43324ecd6d7527600f57532e2acfd934ab24847715b53c3c3e9fc4b6d8216"
+    },
+    {
+      "path": "LOVABLE/Lovable_2.0.txt",
+      "source_sha256": "8f09708f0b6422ccc28cb2fe5cfe8f4fbff7ea63a5f3f6820f6141cad973a0be",
+      "translation_sha256": "2e0802bc5bc537a87c843b9ea5dc17615efccdc0fe1cd1b32544b488c2e544ed"
+    },
+    {
+      "path": "MANUS/Manus_Functions.txt",
+      "source_sha256": "f0f5e6feb006feec55602717cc39165174a80cb1ecf40ecfc180bd2f91f70827",
+      "translation_sha256": "13c906d25b4b24317fe6ddcb8e2ce1cf83927ca6a2ee8ee400c975ac592800ce"
+    },
+    {
+      "path": "MANUS/Manus_Prompt.txt",
+      "source_sha256": "3d8ce0ba41584e244d588d5d0c3aa4296b0646c3c2138d0f20e6b51c62b20c9e",
+      "translation_sha256": "287b07581421981730caa68b643689a8ff6e641c238bdf482978306c80d3c686"
+    },
+    {
+      "path": "META/Llama4_WhatsApp.txt",
+      "source_sha256": "b5de5c73c2097bf6d9b2342196d8151f9c6f2aa61031bfeaa5d35fdb77564977",
+      "translation_sha256": "0a020cebef6f388257a6b4f19cedbaad5adc688d17e3729b8db8cad106d108e7"
+    },
+    {
+      "path": "META/Muse_Spark_Apr-08-26.txt",
+      "source_sha256": "0beefdb67e978f366c67fba6bb039c346d8b2d04c870d07a927fcf2e8c9cb788",
+      "translation_sha256": "19a87ed91b08ad3a4230753c563bf2d5cf5ad98ca76ca1eab9289506af44d27e"
+    },
+    {
+      "path": "MINIMAX/MiniMax.txt",
+      "source_sha256": "01ae867798f735fcad2b55a44e4e5bf0d88d4173b64e0c371518303161345f44",
+      "translation_sha256": "871acd20d332fa1774e845b51969b8be4440715f211dfacef4e888f7c262b953"
+    },
+    {
+      "path": "MISTRAL/LeChat.md",
+      "source_sha256": "f44dad60a84cad944d393589bd79bb584cb7cb11430a7fb699407523da2c7437",
+      "translation_sha256": "a6d10b31010fd699060479111e4805bb30160418b9cf379ada9558f2291657d8"
+    },
+    {
+      "path": "MOONSHOT/Kimi_2_July-11-2025.txt",
+      "source_sha256": "f0cb2f3dba65f332527ae207b84c55afcd1c9920f3574faf4ccaf9c7148b0047",
+      "translation_sha256": "4d61eb5ab872af596db9e6bdaa62562582ad3de5d0d5c746a393f2e77ce4bc52"
+    },
+    {
+      "path": "MOONSHOT/Kimi_K2_Thinking.txt",
+      "source_sha256": "e73dbefd01803bf77a5d4de70cc99190b73d72450c7d8a372d40a6edf9ccc3b4",
+      "translation_sha256": "8c3e9cd20c75d7791cdf6336d73bcf288059e398412fbd134bcd73fe8cfb3289"
+    },
+    {
+      "path": "MULTION/MultiOn.md",
+      "source_sha256": "ff965413783a0ffc90b655d5e8d5ec2f37611b23057ea51d6a97036a74c1a6bb",
+      "translation_sha256": "78d338fb42f2c123dfa5239852450d5c81f8de1991f43d3432f72ab736f4c06e"
+    },
+    {
+      "path": "OPENAI/Atlas_10-21-25.txt",
+      "source_sha256": "16e16031bc7d0f8b5e31790119c21a0aafc63c8a024abefd3ab4f7c9cab02014",
+      "translation_sha256": "7a129f0a3ab7bd17cd93ffb3ff04f9853593c50c7caaf4e5d031a9069e14ec6e"
+    },
+    {
+      "path": "OPENAI/ChatGPT-4o_Sep-27-25.txt",
+      "source_sha256": "02115cb268eec3a39fd17994cc9144eee17bd2dfddfa4e771e8252ac58de54db",
+      "translation_sha256": "0051748e87a7b1036a7586d32937e7183ef3cd5ebcd55693ea941fee215a7c30"
+    },
+    {
+      "path": "OPENAI/ChatGPT5-08-07-2025.mkd",
+      "source_sha256": "2c03deb9ab349940477d234d2b8953b3b466cfdc2efd3e52ce9c642e60395b40",
+      "translation_sha256": "c7483486c1700b420eb1d0d46a0bee5ff1d90e645d0fd95796c55929c57935c4"
+    },
+    {
+      "path": "OPENAI/ChatGPT_4.1_05-15-2025.txt",
+      "source_sha256": "b91d2c66cebf989e43e3274f76930a7e7a2559fecbcd3af946ee6d401a56b613",
+      "translation_sha256": "1706fea1edfa480949648033403063658cd0fd0ff2fc45930156f87c13abd52b"
+    },
+    {
+      "path": "OPENAI/ChatGPT_4o_04-25-2025.txt",
+      "source_sha256": "4dab046eeaee90b853a0e056ff47dcc7a0736e1feaa7cd3135e982eb99d96265",
+      "translation_sha256": "beabfa45b32e35d1e58f1c3d6122ed6fd8676b0afb04c41623e9abd7d9090b9e"
+    },
+    {
+      "path": "OPENAI/ChatGPT_Personality_v2_Change.md",
+      "source_sha256": "9ab3903b2e87fa2bd5664fe56fd13c07afb5857dbd2d9173e326497ab8241c69",
+      "translation_sha256": "5e83f40d8bb7a77069118d7ea50b438f557be2264a98252d556e1c62fa93a28a"
+    },
+    {
+      "path": "OPENAI/ChatGPT_o3_o4-mini_04-16-2025",
+      "source_sha256": "715a8b85be9050c3acc8f6e789387b8cdac65a98fc76385e6baff0d75d1915b1",
+      "translation_sha256": "69c674b446ed4a05c514c7915c582a25c739a9bf89aee95b4e26b9bca0d926e4"
+    },
+    {
+      "path": "OPENAI/ChatKit_Docs__Oct-6-25.txt",
+      "source_sha256": "7e56a452cd65d412d2b8569967df6ba828e8a43a5d9e82f6acd457dea52eb84f",
+      "translation_sha256": "20f72953d3e2e31f416cbeded14139db2ef897faf1e0f9f1fe372012a6b65fcf"
+    },
+    {
+      "path": "OPENAI/Codex.md",
+      "source_sha256": "970d9359bb9c3679fd2fc08786f8a3b5b4725d4d3c523ce9317e368284b2a886",
+      "translation_sha256": "7644facaac0c199affed7c85e26732f70c29101c836f34dae14af99848984909"
+    },
+    {
+      "path": "OPENAI/Codex_Desktop/5.6-Sol_SystemPrompt.md",
+      "source_sha256": "b247f30e23380fc48794756f3ee0ee7e370d008967bca7ae2a13efe3f160c51e",
+      "translation_sha256": "cae1eccb35212bb57505a73bd7b43f1784d5b7db1a0516b084468f5e2670f54f"
+    },
+    {
+      "path": "OPENAI/Codex_Desktop/5.6-Sol_Tools.json",
+      "source_sha256": "bad68475f1f20cc001850e83d440dd16d3c9ea29b4fe66ea6d97bafdf072c0ef",
+      "translation_sha256": "893a64181030df66536f88edc61f165b51e770bf024ff18e07611ab11e6d77c1"
+    },
+    {
+      "path": "OPENAI/Codex_Desktop/GPT-6-Astra_Prompts.md",
+      "source_sha256": "150822d0da1303b5c80180a0368bbb643a6943e1d755570c9069d51f487cfea0",
+      "translation_sha256": "f8bb7438cdb01a341ffce4c2b4135366701232451ac803aeaf3c3aa6c3ed88e3"
+    },
+    {
+      "path": "OPENAI/Codex_Desktop/GPT-6-Astra_Tools.json",
+      "source_sha256": "de74ff1eedd97be3cab7bdb7a144a649fddec7b4ce5b894d4a95704051b7ac0e",
+      "translation_sha256": "4ec85334d762bd971bca835dd3dc7821237095e66c4594f7b432f6bb8041667f"
+    },
+    {
+      "path": "OPENAI/Codex_Desktop/GPT-6-Sol_Prompts.txt",
+      "source_sha256": "abb7a285f0894aa95c006ed34ea4515a27fed234aaef046105e54d4bd3b683ab",
+      "translation_sha256": "bc31afe04495affa6f10b12291393bdfcba919dc84ef1089d86be72ba1bd4a8f"
+    },
+    {
+      "path": "OPENAI/Codex_Desktop/GPT-6-Sol_Tools.json",
+      "source_sha256": "4c3a9e2227d9ece8661a281a300c0c53b156be1c69cb2c9aec5281c61415605b",
+      "translation_sha256": "4119401305c2f327081f981937d47ae5837a8a7245b276527f93883a2c1f3903"
+    },
+    {
+      "path": "OPENAI/Codex_Sep-15-2025.md",
+      "source_sha256": "d8b2fe25974a6819a4315fb152850878f5ece1f2332a91b3671b3f2308a15315",
+      "translation_sha256": "f7ab05e343e97879cb350364f2dbaae856fe716a51b77b28230f88198aafcdb0"
+    },
+    {
+      "path": "OPENAI/GPT-4.5_02-27-25.md",
+      "source_sha256": "db9c290365694eef6dc3e8816969f9daa195ffb73326b51d6b77d32d9b325d5c",
+      "translation_sha256": "18be7e695132fe181654bbd41df7a500b6fcab981a3ccc51b460174a1ae142b0"
+    },
+    {
+      "path": "OPENAI/GPT-4o_Image_Gen_Postfill.txt",
+      "source_sha256": "3eabc8aeef586ad860a776309d99359934097d84cc93efb38b720cb3ff26fa01",
+      "translation_sha256": "2f3539a8d8b2a2ea1461d3b27ea87a147467dd62563916b09c391eb54be6954f"
+    },
+    {
+      "path": "PERPLEXITY/Perplexity_Deep_Research.txt",
+      "source_sha256": "0b7e2fb01419c404df4180ae66442b14c4d12fd3b6df3b06d06d29372f272dab",
+      "translation_sha256": "d6926273c57eb6d9076986d9e90f641b142bbef17a58e534ac9030c68614752d"
+    },
+    {
+      "path": "README.md",
+      "source_sha256": "1edb40f231dd5827e41a584997646703cc13edbe78f8f2bbc3735a7c700d0d26",
+      "translation_sha256": "c5da3e090ce18039877b8c7e61ad653e6a49841ec7203dbfc6cc38fb06db6155"
+    },
+    {
+      "path": "REPLIT/Replit_Agent.md",
+      "source_sha256": "51e56255e6c9bdcf99b02842626927f33bd4199259b61ff8c5678790c6cfe6b7",
+      "translation_sha256": "c0e4311433ece4b50e8ece85ba06bc8f58b625b21a53ac305fa96bb277f32d19"
+    },
+    {
+      "path": "REPLIT/Replit_Functions.md",
+      "source_sha256": "eab39e3b46548e48afd707ec39c1750b249d34a8d793c269a61cdc1a1dbec236",
+      "translation_sha256": "553a18e3263c0a2984d35b9d4a9e25394c7aa00a36083d9740f1b1fffc71e9bb"
+    },
+    {
+      "path": "REPLIT/Replit_Initial_Code_Generation_Prompt.md",
+      "source_sha256": "61beffd3fe09a6ba142fcbd30ef97952435d499d5ac003739ac7797ea27a2599",
+      "translation_sha256": "7f1493418c5ba4e17d8b0e867b094397196bdde9b701b0b9eee2f5efa40dfb38"
+    },
+    {
+      "path": "SAMEDEV/Same_Dev.txt",
+      "source_sha256": "6d97106bb7474ae48584a5bd71ec0bbd92ff81f585b6573aebc87ba4057462a3",
+      "translation_sha256": "27b3835a8bf1b7dfbe7037765aec0c4f07cafce66cffa879bcc3aeb32fecb99d"
+    },
+    {
+      "path": "VERCEL V0/Vercel_v0.txt",
+      "source_sha256": "eb073c2aaebb1f373fc012975db403d3a43941f89d12b9aa4ac0ec6b45242611",
+      "translation_sha256": "1e606005dbfbb58ddfe337873628690ac939921db34111a2b502e94a78fb2261"
+    },
+    {
+      "path": "WINDSURF/Windsurf_Prompt.md",
+      "source_sha256": "dad5d78b2c3b46e2e8b247f2cec7ab80069d1bc1b13d11254cc6921baf2bca56",
+      "translation_sha256": "d2c2f52a17a99652ee9f23c96992b749ed620dd0011e90572c319fd4eb6ae830"
+    },
+    {
+      "path": "WINDSURF/Windsurf_Tools.md",
+      "source_sha256": "549e74015555a2c60fc09091f06cfb04e8ab9bf1f6d59c30a36496a31633644d",
+      "translation_sha256": "79fb0d3a2dba53d0bb70c12791ddeb1f26e9e121e2faae7319ed698eb405540d"
+    },
+    {
+      "path": "XAI/GROK-4-NEW_Jul-13-2025",
+      "source_sha256": "3180ac76900a340ec35201632393aa401bf192dfcc83550b09272d7f15e4e98a",
+      "translation_sha256": "5dbbdf8f37addc31d1776f92c33a9d1b926bc0abad490e72eb6526b2f6ad6bbb"
+    },
+    {
+      "path": "XAI/GROK-4.1_Nov-17-2025.txt",
+      "source_sha256": "0363671bbf15247f4daa833960d1d0be2ab3f9705b79314289ca5fd80ecf894e",
+      "translation_sha256": "1879b12d9b1ae3ffb49877b8163450ff0d8921bff4825ed877c4b452bf16b669"
+    },
+    {
+      "path": "XAI/GROK-4.20.mkd",
+      "source_sha256": "5bd1e851a80abb8e74852a2021b423e81a047651953b0a6c55a39c9d7eacc0e6",
+      "translation_sha256": "9710ae820a80a38b2e35e2b48961ddb29fcbf18911dd563998d10b5aa8307253"
+    },
+    {
+      "path": "XAI/Grok-Code-Fast-1_Aug-26-2025.txt",
+      "source_sha256": "aceb1d67fa726fb7a87e41c0f10c1d0a8f17c44c5946ecab2b283352a2423e6f",
+      "translation_sha256": "166956da363fa8bb503b23d9dd637b5b4c446ddd7860400cd3e3b0e99e775a06"
+    },
+    {
+      "path": "XAI/Grok3.md",
+      "source_sha256": "8d32685878e33e299d777cb51337861d1d55a495f28bb37180f65259528b623c",
+      "translation_sha256": "4531abea3c44e414d5630020063bfbca5a1fcf064d569e64ca92dc549ac0e53d"
+    },
+    {
+      "path": "XAI/Grok3_updated_07-08-2025.md",
+      "source_sha256": "dda2fd8bd66b0e08a988726020905c40add8d5c2628d55d3a8cf72c48be48bd6",
+      "translation_sha256": "385e2b73d18b55869c5e942d3a8ee84b254898b5cc78bb1ffd0ec15a5aa28ef1"
+    },
+    {
+      "path": "XAI/Grok4-July-10-2025.md",
+      "source_sha256": "a8a46a7a7304508b08e975e6f175d755bfec82f32d024c4e8b38387906bfa2fa",
+      "translation_sha256": "7a7ae7e8ca3dec6ac5787ffa935233c5eb73fd0196f5ce8812b9cfa176f61776"
+    },
+    {
+      "path": "ZAI/ZCode/Prompts.md",
+      "source_sha256": "3b934c243059d6cff99aeb9f98eafa2951a6477e7e628821dd7ac968ef777fec",
+      "translation_sha256": "6598fb4cb867f751d32a23823df58557bcddcaaa72820c04e6cef1460eac19f6"
+    },
+    {
+      "path": "ZAI/ZCode/Skills.md",
+      "source_sha256": "349576a100abe263172b6fa0a47ed0ba015dcd5db0ba723eaadc70e339508181",
+      "translation_sha256": "c538a50563a98bd24015869edc639e1a682ecc48c9782ef55404e1699ab3813f"
+    },
+    {
+      "path": "ZAI/ZCode/Tools.json",
+      "source_sha256": "e9ee603505e871aa4e5eaff3dd2a4db4007c43c1006004a6a07799d2e4b8870b",
+      "translation_sha256": "e151604a9d47046ccb55fa74104ddf4d05ae3dcbaaafead088db38369e0ca9e6"
+    }
+  ],
+  "pending_files": []
+}
